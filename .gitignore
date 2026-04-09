@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.env
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Data files (if large)
+*.csv
+*.xlsx
+
+# Dash / temp
+*.tmp
